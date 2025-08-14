@@ -51,7 +51,7 @@ featuring:
 
 ## 🌐 More Information
 
-For the **full satirical experience**, visit:  
+For the **full experience**, visit:  
 🔗 [https://gryfxss21xars.carrd.co/](https://gryfxss21xars.carrd.co/)
 
 ---
