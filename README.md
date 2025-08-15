@@ -1,7 +1,7 @@
 # 📜 Department of Attention Management (DAM) – Official Administrative Documentation
 
 Welcome to the official repository of the **Department of Attention Management (DAM)**,  
-proudly *"Serving the Public with Procedural Integrity Since 1974"*.
+proudly *"Serving the Public with Procedural Integrity Since ||REDACTED||"*.
 
 This repository contains the **entire bureaucratic framework** for professional collaboration requests,  
 painstakingly engineered to maximize **form completion rates, procedural compliance, and comedic absurdity**.
@@ -21,13 +21,6 @@ painstakingly engineered to maximize **form completion rates, procedural complia
   - `Form S-1` – Schedule Proposal and Time Allocation Request
   - `Form EVAL-1` – Post-Consultation Evaluation & Completion Certificate
   - `Form APP-1` – Formal Appeal of Administrative Determination
-
-All forms and guides have been reformatted into **government-style PDFs**  
-featuring:
-- Department branding & metadata boxes  
-- “FOR OFFICIAL USE ONLY” watermarks  
-- Excessive cross-referencing  
-- Redundant legalese for maximum authenticity
 
 ---
 
