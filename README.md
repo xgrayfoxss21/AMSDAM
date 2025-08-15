@@ -57,3 +57,95 @@ For the **full experience**, visit:
 ---
 
 *Remember*: **Compliance is not just encouraged – it’s mandatory.** Failure to comply may result in additional forms.
+
+---
+
+=======================================================================
+DEPARTMENT OF ATTENTION MANAGEMENT (DAM)
+OFFICIAL ADMINISTRATIVE WORKFLOW
+"Serving the Public with Procedural Integrity Since 1974"
+=======================================================================
+
+                       ┌──────────────────────┐
+                       │ VERIFIED MEMBER ONLY │
+                       └───────────┬──────────┘
+                                   │
+                 ┌─────────────────▼─────────────────┐
+                 │ DOWNLOAD DOCUMENTATION & WORKFLOW │
+                 │ GUIDE (WF-2024-001)                │
+                 └─────────────────┬─────────────────┘
+                                   │
+                 ┌─────────────────▼─────────────────┐
+                 │ STEP 1: COMPLETE FORM A-1          │
+                 │ Petition for Initial Administrative│
+                 │ Attention (Required First Step)    │
+                 └─────────────────┬─────────────────┘
+                                   │
+                                   ▼
+                 ┌────────────────────────────────────┐
+                 │ SUBMIT VIA DISCORD                  │
+                 │ - Go to "Diaries and Ledgers"       │
+                 │ - Create a new thread               │
+                 │ - Upload completed Form A-1         │
+                 │ - Tag @grayfoxss21x                 │
+                 └─────────────────┬──────────────────┘
+                                   │
+                          ┌────────┴─────────┐
+                          │                  │
+                 ┌────────▼────────┐ ┌───────▼─────────┐
+                 │ FORM A-1 APPROVED│ │ FORM A-1 DENIED │
+                 └────────┬────────┘ └───────┬─────────┘
+                          │                  │
+                          │                  │
+                          │        ┌─────────▼─────────┐
+                          │        │ FORM APP-1        │
+                          │        │ Formal Appeal     │
+                          │        │ of Determination  │
+                          │        └─────────┬─────────┘
+                          │                  │
+                          │                  ▼
+                          │        ┌───────────────────┐
+                          │        │ Appeal Decision    │
+                          │        │ (Final)            │
+                          │        └─────────┬─────────┘
+                          │                  │
+                          ▼                  │
+        ┌──────────────────────────────────────────────────┐
+        │ ACCESS SECONDARY SERVICES (Requires Approved A-1) │
+        └─────────┬───────────────────────┬────────────────┘
+                  │                       │
+                  │                       │
+     ┌────────────▼────────────┐ ┌─────────▼───────────┐
+     │ FORM B-1                 │ │ FORM C-1           │
+     │ Application for          │ │ Petition for       │
+     │ Information Services     │ │ Scheduled          │
+     │ (Data, Technical, AI)    │ │ Consultation       │
+     └────────────┬─────────────┘ └─────────┬──────────┘
+                  │                         │
+                  │                         │
+     ┌────────────▼────────────┐ ┌──────────▼──────────┐
+     │ FORM T-1                 │ │ FORM S-1           │
+     │ Application for          │ │ Schedule Proposal  │
+     │ Administrative Task      │ │ & Time Allocation  │
+     │ Assignment               │ │ Request            │
+     └────────────┬─────────────┘ └──────────┬─────────┘
+                  │                         │
+                  └─────────────┬───────────┘
+                                │
+                                ▼
+                ┌──────────────────────────────┐
+                │ COMPLETE FORM EVAL-1          │
+                │ Post-Consultation Evaluation  │
+                │ & Completion Certificate      │
+                └──────────────────────────────┘
+
+=======================================================================
+NOTES:
+- All forms must be filled completely, following official formatting.
+- Appeals (Form APP-1) only allowed for standard denials.
+- Priority processing requires justification.
+- Official processing times: Routine (5-7 days), Priority (3-5 days),
+  Urgent (1-2 days).
+=======================================================================
+FOR OFFICIAL USE ONLY
+=======================================================================
